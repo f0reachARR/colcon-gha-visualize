@@ -1,7 +1,7 @@
 [project]
 name = "colcon-gha-visualize"
 version = "0.1.0"
-description = "Add your description here"
+description = "Visualize how long colcon build taken in GitHub Actions"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = ["colcon-common-extensions>=0.3.0", "colcon-core>=0.20.1"]
